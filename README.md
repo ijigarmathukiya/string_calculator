@@ -33,8 +33,8 @@ The task was to implement a simple string calculator with the following requirem
 
 3. Install the required dependencies:
 
-  ```bash
-  npm install
+   ```bash
+   npm install
 
 ### Running Tests
 
