@@ -24,7 +24,7 @@ The task was to implement a simple string calculator with the following requirem
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/string-calculator.git
+   git clone https://github.com/ijigarmathukiya/string-calculator.git
 
 2. Navigate to the project directory:
 
@@ -36,7 +36,7 @@ The task was to implement a simple string calculator with the following requirem
   ```bash
   npm install
 
-**### Running Tests**
+### Running Tests
 
 npm test
 
